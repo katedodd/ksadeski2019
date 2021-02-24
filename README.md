@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ksadeski2019
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ksadeski2019/ksadeski2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SoundCloud: https://soundcloud.com/pinktrashcat
+LinkedIn: https://www.linkedin.com/in/kate-dodd-79984882/
+Don't Starve Together Guide: https://ksadeski2019.github.io/dont-starve/
+
+Ask me about my Roomba Simulator - it is my precious child <3 
