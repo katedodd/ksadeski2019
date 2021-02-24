@@ -1,5 +1,6 @@
-
+<div style="margin:auto">
 <h2><img src="https://raw.githubusercontent.com/ksadeski2019/artwork-2d/main/pixel-art/animal-crossing/marshal.gif" alt="marshal!"/>Hi, I’m Kate~!<img src="https://raw.githubusercontent.com/ksadeski2019/artwork-2d/main/pixel-art/animal-crossing/marshal.gif" alt="marshal!"/></h2>
+</div>
 
 SoundCloud: https://soundcloud.com/pinktrashcat
 <br/>LinkedIn: https://www.linkedin.com/in/kate-dodd-79984882/
